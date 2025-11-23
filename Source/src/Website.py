@@ -16,9 +16,9 @@ left, right = st.columns(2)
 with left:
     left.markdown('<h1>Windows</h1>', unsafe_allow_html=True)
     
-    with open("downloads\\Business_Game.rar", "rb") as f:
+    with open("downloads\\Business_Game.rar", "r") as f:
         left.download_button("Business Game.rar", f.read(), file_name="BusinessGame.rar", mime="application/x-rar-compressed")
     
-    with open("downloads\\Business Game.zip", "rb") as f:
+    with open("downloads\\Business_Game.zip", "rb") as f:
         left.download_button("Business Game.zip", f.read(), file_name="BusinessGame.zip", mime="application/x-zip-compressed")
         
