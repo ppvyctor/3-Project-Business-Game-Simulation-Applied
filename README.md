@@ -7,7 +7,7 @@
 
 <br><br>
 
-##   <p align="center"> [Humanistic]() Data Science and Artificial Intelligence (CDIA): [**Ethical Entrepreneurships**]()
+##   <p align="center"> [Humanistic AI]() & Data Science: [**: Project Business Game Simulation Applied**]()
 
 <br>
 
