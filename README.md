@@ -7,7 +7,7 @@
 <br><br>
 
 
-##   <p align="center"> [***Applied Business Game Simulation Project***]() - in Humanistic Data Science and Artificial Intelligence
+##   <p align="center"> 🦄 [***Applied Business Game Simulation Project***]() - in Humanistic AI & Data Science 
 
 <br><br>
 
