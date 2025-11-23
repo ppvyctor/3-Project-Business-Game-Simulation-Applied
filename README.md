@@ -1,11 +1,11 @@
 
-<br><br>
+<br>
 
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
  
 
-
 <br><br>
+
 
 ##   <p align="center"> [***Applied Business Game Simulation Project***]() in Humanistic Data Science and Artificial Intelligence
 
@@ -38,17 +38,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > [!TIP]
 >
 >  This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP
->  To explore all related materials, analyses, and notebooks, visit the main repository 
+>  To explore all related materials, analyses, and notebooks, visit the repositories: 
 >
-> * [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
+> * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
 >
-> * [4- Social Buss: NLP - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1) 
+> * **Project Startup Repo** - [4- Social Buss: NLP - Class 1]
 > 
-> * [Embedding Projector](https://projector.tensorflow.org/)
-> 
->
-
-
+>   
 
 
 <!--Confidentiality Statement-->
