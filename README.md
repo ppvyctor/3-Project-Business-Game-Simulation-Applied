@@ -314,7 +314,7 @@ flet build apk -v
 <br><br>
 
 
-### [iOS()
+### [IOS]()
 
 <br>
 
@@ -329,7 +329,7 @@ flet build ipa -v
 
 <br><br>
 
-### [macOS]()
+### [MacOS]()
 
 <br>
 
