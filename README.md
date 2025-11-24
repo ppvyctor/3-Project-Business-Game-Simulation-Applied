@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-#  Business Game Simulation — 3rd Project of the Course
+#  [Business Game Simulation — 3rd Project of the Course]()
 
 <br>
 
@@ -100,10 +100,16 @@ After entering their data into the system, each group will automatically see:
 * **Comparison** between companies
 * **Identification of the group with the best performance**
  
-<br>
 
-🎯 **Goal:**
-👉 The group with the **highest profit** wins.
+<br><br>
+
+
+
+> [!TIP]
+>
+> 🎯 [**Goal:**]() <br>
+> * The group with the [**highest profit**]() wins.
+>
 
 
 <br><br>
@@ -125,7 +131,7 @@ After entering their data into the system, each group will automatically see:
 
 > [!IMPORTANT]
 >
-> **Note:** In case of a tie in profit, the order follows the original position in the list.
+> * **Note:** In case of a tie in profit, the order follows the original position in the list.
 > 
 
 
