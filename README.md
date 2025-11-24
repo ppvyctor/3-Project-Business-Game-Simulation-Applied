@@ -222,7 +222,7 @@ self.profit = self.total_revenue - self.total_costs
 <br>
 
 
-### uv
+### [uv]()
 
 Run as a desktop app:
 
@@ -233,7 +233,7 @@ uv run flet run
 <br>
 
 
-Run as a web app:
+[Run as a web app:]()
 
 ```
 uv run flet run --web
@@ -242,7 +242,7 @@ uv run flet run --web
 <br>
 
 
-### Poetry
+### [Poetry]()
 
 Install dependencies from `pyproject.toml`:
 
@@ -281,7 +281,7 @@ poetry run flet run --web
 
 <br>
 
-### Android]()
+### [Android]()
 
 ```
 flet build apk -v
@@ -294,7 +294,7 @@ flet build apk -v
 
 <br>
 
-### iOS()
+### [iOS()
 
 ```
 flet build ipa -v
@@ -307,7 +307,7 @@ flet build ipa -v
 
 <br>
 
-### macOS
+### [macOS]()
 
 ```
 flet build macos -v
@@ -317,7 +317,10 @@ flet build macos -v
 
 > For more details on building macOS package, refer to the [macOS Packaging Guide](https://flet.dev/docs/publish/macos/).
 
-### Linux
+
+<br>
+
+### [Linux]()
 
 ```
 flet build linux -v
@@ -329,7 +332,7 @@ flet build linux -v
 
 <br>
 
-### Windows
+### [Windows]()
 
 ```
 flet build windows -v
