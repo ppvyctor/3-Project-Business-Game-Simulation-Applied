@@ -131,14 +131,14 @@ After entering their data into the system, each group will automatically see:
 
 > [!IMPORTANT]
 >
-> * **Note:** In case of a tie in profit, the order follows the original position in the list.
+> * [**Note:**]() In case of a tie in profit, the order follows the original position in the list.
 > 
 
 
 <br><br>
 
 
-## 🖥️ Table Display Code (Flet)
+## [Table Display Code]()
 
 <br>
 
@@ -176,7 +176,7 @@ def View_Enterprises_Page(page: ft.Page, Enterprises: list[Enterprise]) -> ft.Li
 
 <br><br>
 
-## 🧮 Profit Calculation
+## [Profit Calculation]()
 
 Each company has its costs and revenue calculated automatically:
 
@@ -205,18 +205,19 @@ self.profit = self.total_revenue - self.total_costs
 
 <br><br>
 
-
-##  Module Goal
-
-This project will be used to simulate business decisions, cost strategies, pricing, and the financial impact of each group's choices, helping students better understand the relationship between costs, revenue, and profit.
-
+> [!IMPORTANT]
+>
+> * ###  Module Goal
+>   
+> * This project will be used to simulate business decisions, cost strategies, pricing, and the financial impact of each group's choices, helping students better understand the relationship between costs, revenue, and profit.
+>
 
 
 
 <br><br>
 
 
-## How to Run This Project
+## [How to Run This Project]()
 
 <br>
 
@@ -225,15 +226,21 @@ This project will be used to simulate business decisions, cost strategies, prici
 
 Run as a desktop app:
 
+
 ```
 uv run flet run
 ```
+<br>
+
 
 Run as a web app:
 
 ```
 uv run flet run --web
 ```
+
+<br>
+
 
 ### Poetry
 
@@ -243,11 +250,15 @@ Install dependencies from `pyproject.toml`:
 poetry install
 ```
 
+<br>
+
 Run as a desktop app:
 
 ```
 poetry run flet run
 ```
+
+<br>
 
 Run as a web app:
 
@@ -255,25 +266,46 @@ Run as a web app:
 poetry run flet run --web
 ```
 
-For more details on running the app, refer to the [Getting Started Guide](https://flet.dev/docs/getting-started/).
+<br><br>
 
-## Build the app
 
-### Android
+> [!TIP]
+>
+> *For more details on running the app, refer to the [Getting Started Guide](https://flet.dev/docs/getting-started/).
+>
+
+<br><br>
+
+
+## [Build the app]()
+
+<br>
+
+### Android]()
 
 ```
 flet build apk -v
 ```
 
-For more details on building and signing `.apk` or `.aab`, refer to the [Android Packaging Guide](https://flet.dev/docs/publish/android/).
+<br>
 
-### iOS
+
+> For more details on building and signing `.apk` or `.aab`, refer to the [Android Packaging Guide](https://flet.dev/docs/publish/android/).
+
+<br>
+
+### iOS()
 
 ```
 flet build ipa -v
 ```
 
-For more details on building and signing `.ipa`, refer to the [iOS Packaging Guide](https://flet.dev/docs/publish/ios/).
+<br>
+
+> For more details on building and signing `.ipa`, refer to the [iOS Packaging Guide](https://flet.dev/docs/publish/ios/).
+
+
+<br>
 
 ### macOS
 
@@ -281,7 +313,9 @@ For more details on building and signing `.ipa`, refer to the [iOS Packaging Gui
 flet build macos -v
 ```
 
-For more details on building macOS package, refer to the [macOS Packaging Guide](https://flet.dev/docs/publish/macos/).
+<br>
+
+> For more details on building macOS package, refer to the [macOS Packaging Guide](https://flet.dev/docs/publish/macos/).
 
 ### Linux
 
@@ -289,7 +323,11 @@ For more details on building macOS package, refer to the [macOS Packaging Guide]
 flet build linux -v
 ```
 
-For more details on building Linux package, refer to the [Linux Packaging Guide](https://flet.dev/docs/publish/linux/).
+<br>
+
+> For more details on building Linux package, refer to the [Linux Packaging Guide](https://flet.dev/docs/publish/linux/).
+
+<br>
 
 ### Windows
 
@@ -297,12 +335,13 @@ For more details on building Linux package, refer to the [Linux Packaging Guide]
 flet build windows -v
 ```
 
-For more details on building Windows package, refer to the [Windows Packaging Guide](https://flet.dev/docs/publish/windows/).
+<br>
+
+> For more details on building Windows package, refer to the [Windows Packaging Guide](https://flet.dev/docs/publish/windows/).
 
 
 
 <br><br>
-
 
 
 
