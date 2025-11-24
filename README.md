@@ -96,9 +96,11 @@ After entering their data into the system, each group will automatically see:
 
 <br>
 
-* **Total company profit**
-* **Comparison** between companies
-* **Identification of the group with the best performance**
+* [**Total**]() company profit
+
+* [**Comparison**]() between companies
+
+* [**Identification**]() of the group with the best performance
  
 
 <br><br>
