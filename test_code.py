@@ -22,5 +22,7 @@ def test_key2(setup_data):
 # Test function without using the fixture
 def test_addition():
     assert 1 + 1 == 2
+
+
     
     
